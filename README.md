@@ -21,12 +21,7 @@ User Process:
 
 ![User-process](manual.png)
 
-1. Add or replace source files
-2. Open the Excel template
-3. Click "Refresh All"
-4. Receive updated output
-
-Technologies
+Technologies:
 - Microsoft Excel
 - Power Query (M Language)
 - ETL Automation
