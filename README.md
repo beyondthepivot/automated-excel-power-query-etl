@@ -15,7 +15,12 @@ Key Features:
 - Standardized reporting output
 - One-click refresh process for end users
 
+![power-query](query.png)
+
 User Process:
+
+![User-process](manual.png)
+
 1. Add or replace source files
 2. Open the Excel template
 3. Click "Refresh All"
